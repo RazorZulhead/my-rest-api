@@ -1,10 +1,10 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.creator = 'RazorZulhead'// yourname
+global.MONGO_DB_URI = "mongodb+srv://razorvpnstore:kVlhmb5XIvumZ2qu@cluster0.bkyrqjo.mongodb.net/" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.your_email = "razorvpnstore@gmail.com" //email
+global.email_password = "hjph ornk tfcg clca" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
